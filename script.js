@@ -1,1 +1,0 @@
-confirm("do you see the popup?");
